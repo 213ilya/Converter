@@ -1,2 +1,3 @@
 # Converter
-Ru: Обычный конвертер написанный на if/elif/else. Может, кому-то пригодится. Eng: A regular converter written in if/elif/else. Maybe it will be useful to someone.
+Ru: Обычный конвертер длин и масс, написанный с помощью if/elif/else. Может, кому-то пригодится.
+Eng: The usual converter of lengths and masses, written using if/elif/else. Maybe it will be useful to someone.
