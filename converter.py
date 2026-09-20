@@ -346,3 +346,6 @@ while True:
         
     elif option == "3":
         break
+        
+    else:
+        print("Введи 1, 2 или 3")
