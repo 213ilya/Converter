@@ -229,7 +229,7 @@ while True:
         else:
             print("Неправильный выбор")
         
-    if option == "2":
+    elif option == "2":
         print("Введи единицу массы")
         choice = input("Твой выбор: ").strip().lower()
     
@@ -344,5 +344,5 @@ while True:
         else:
             print("Неправильный выбор")
         
-    if option == "3":
+    elif option == "3":
         break
